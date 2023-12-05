@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory = com.aurionpro.test.\
+    config.TestContainersSpringContextCustomizerFactory,com.aurionpro.test.\
+    config.SqlTestContainersSpringContextCustomizerFactory,com.aurionpro.test.\
+    config.KafkaTestContainersSpringContextCustomizerFactory
